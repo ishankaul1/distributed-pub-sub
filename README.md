@@ -1,4 +1,5 @@
 # Distributed Pub-Sub
+Grad School Proj for a distributed systems class
 
 In this project, we built a Topic-based Publisher-Subscriber system using the Zookeeper and ZMQ libraries in Python with the following properties:
 
